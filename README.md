@@ -91,7 +91,7 @@ After designing PCB in my favorite PCB editor tools. Now it’s time to order PC
 
 I trust on [JLCPCB](https://jlcpcb.com/IAT ) for ordering PCB they have very fast shipping service and low rates for quality PCB.
 
-You get 30$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ) so hurry up visit [JLCPCB](https://jlcpcb.com/IAT )
+You will also get welcome coupons from [JLCPCB](https://jlcpcb.com/IAT ) so hurry up & visit [JLCPCB](https://jlcpcb.com/IAT )
 
 
 
