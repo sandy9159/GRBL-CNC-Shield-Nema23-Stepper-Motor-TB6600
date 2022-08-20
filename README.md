@@ -27,6 +27,14 @@ In this case you have to invest a lot in hardware and software, and for the sake
 
 But after using my CNC Shield you can easily connect 4 bigger stepper motor and TB6600 Stepper driver very easily and enjoy your CNC work on GRBL version without any issue and this CNC shield works on Arduino Nano so your control box even get compact.
 
+Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328.
+
+The controller is written in highly optimized C utilizing every clever feature of the AVR-chips to achieve precise timing and asynchronous operation. It is able to maintain up to 30kHz of stable, jitter free control pulses.
+
+It accepts standards-compliant g-code and has been tested with the output of several CAM tools with no problems. Arcs, circles and helical motion are fully supported, as well as, all other primary g-code commands. Macro functions, variables, and most canned cycles are not supported, but we think GUIs can do a much better job at translating them into straight g-code anyhow.
+
+Grbl includes full acceleration management with look ahead. That means the controller will look up to 18 motions into the future and plan its velocities ahead to deliver smooth acceleration and jerk-free cornering.
+
 # PIN OUT OF GRBL CNC SHIELD
 
 ![image](https://user-images.githubusercontent.com/19898602/185733053-a90c3646-8feb-4873-93d3-88efe64aac9c.png)
